@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: About Me
+    url: /
+
+  - title: Posts
+    url: /posts/
+
+  - title: 日本語記事
+    url: /japanese/

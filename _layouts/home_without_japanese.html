@@ -1,0 +1,15 @@
+---
+layout: archive
+author_profile: true
+---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+   {% if post.categories contains "Japanese" %}
+   {% else %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
