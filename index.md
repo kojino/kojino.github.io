@@ -11,7 +11,7 @@ We are looking for exceptional people to join our journey, please contact me if 
 
 ## Previous Experience
 
-I was a machine learning engineer at a **[$9B e-commerce with 300M users](https://www.forbes.com/sites/parmyolson/2017/09/20/wish-8-billion-funding-amazon/)**, launched a Tokyo branch of a **[Harvard-MIT data consulting firm](http://www.quantco.com/)**, worked for **[the most active seed VC](https://east.vc/)** in south east Asia, and helped build a **[tool every Android developer uses](https://gradle.com/)**.
+I was a machine learning engineer at a **[$11B e-commerce with 500M users](https://www.wish.com/)**, launched a Tokyo branch of a **[Harvard-MIT data consulting firm](http://www.quantco.com/)**, worked for **[the most active seed VC](https://east.vc/)** in south east Asia, and helped build a **[tool every Android developer uses](https://gradle.com/)**.
 
 I graduated from Harvard College with a joint degree in computer science and statistics.
 
