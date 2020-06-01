@@ -17,14 +17,14 @@ I graduated from Harvard College with a joint degree in computer science and sta
 
 ## Publications
 
+**[Predicting Choice with Set-Dependent Aggregation](https://arxiv.org/abs/1906.06365)**  
+with Nir Rosenfeld and Yaron Singer  
+ICML 2020
+
 **[Robust Classification of Financial Risk](https://arxiv.org/abs/1811.11079)**\\
 with Daniel Giebisch, Suproteem Sarkar and Yaron Singer  
 NIPS 2018 Workshop on AI in Financial Services  
 <span style="color:red">Oral Presentation</span>
-
-**[Predicting Choice with Set-Dependent Aggregation](https://arxiv.org/abs/1906.06365)**  
-with Nir Rosenfeld and Yaron Singer  
-arXiv preprint
 
 
 ## Awards
