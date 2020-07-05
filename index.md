@@ -29,7 +29,7 @@ NIPS 2018 Workshop on AI in Financial Services
 
 ## Awards
 
-Fellowship Recipient, Son Masa Foundation, 2020
+Fellowship Recipient, Masa Son Foundation, 2020
 
 Honorable Mention, Computing Research Association Outstanding Undergraduate Researcher Award, 2019  
 
