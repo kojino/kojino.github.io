@@ -5,7 +5,7 @@ title: About Me
 comments: false
 ---
 
-I am a cofounder at [Robust Intelligence](https://www.robustintelligence.com/), an AI security startup funded by Sequoia and Engineering Capital.  
+I am a cofounder at [Robust Intelligence](https://www.robustintelligence.com/), an AI security startup.  
 We are looking for exceptional people to join our journey, please contact me if interested!
 <!-- My research is at the intersection of **machine learning and the social sciences**. I am attracted by the dynamic nature of social data and the algorithmic and statistical challenges it entails. The problems I engage with are of importance as we are increasingly using ML to improve decision-making in domains like business, politics and legal systems.  -->
 
