@@ -5,13 +5,12 @@ title: About Me
 comments: false
 ---
 
-I am a cofounder at [Robust Intelligence](https://www.robustintelligence.com/), an AI security startup.  
-We are looking for exceptional people to join our journey, please contact me if interested!
-<!-- My research is at the intersection of **machine learning and the social sciences**. I am attracted by the dynamic nature of social data and the algorithmic and statistical challenges it entails. The problems I engage with are of importance as we are increasingly using ML to improve decision-making in domains like business, politics and legal systems.  -->
+I am a co-founder at [Robust Intelligence](https://www.robustintelligence.com/), an AI security startup.
+
 
 ## Previous Experience
 
-I was a machine learning engineer at a **[$11B e-commerce with 500M users](https://www.wish.com/)**, launched a Tokyo branch of a **[Harvard-MIT data consulting firm](http://www.quantco.com/)**, worked for **[the most active seed VC](https://east.vc/)** in south east Asia and Japan, and helped build a **[tool every Android developer uses](https://gradle.com/)**.
+I was a machine learning engineer at a **[$11B e-commerce with 500M users](https://www.wish.com/)**, launched a Tokyo branch of a **[Harvard-MIT data consulting firm](http://www.quantco.com/)**, worked for **[the most active seed VC](https://east.vc/)** in south east Asia, and helped build a **[tool every Android developer uses](https://gradle.com/)**.
 
 I graduated from Harvard College with a joint degree in computer science and statistics.
 
@@ -24,13 +23,13 @@ ICML 2020
 **[Robust Classification of Financial Risk](https://arxiv.org/abs/1811.11079)**\\
 with Daniel Giebisch, Suproteem Sarkar and Yaron Singer  
 NIPS 2018 Workshop on AI in Financial Services  
-<span style="color:red">Oral Presentation</span>
+Oral Presentation
 
 
 ## Awards
 
-Fellowship Recipient, Masa Son Foundation, 2020
+Fellowship Recipient, [Masa Son Foundation](https://masason-foundation.org/en/), 2020
 
-Honorable Mention, Computing Research Association Outstanding Undergraduate Researcher Award, 2019  
+Honorable Mention, [Computing Research Association Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/), 2019  
 
-Recipient, Funai Overseas Scholarship, 2019
+Recipient, [Funai Overseas Scholarship](https://www.funaifoundation.jp/english/english002.html), 2019
