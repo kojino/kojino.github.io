@@ -5,7 +5,7 @@ title: About Me
 comments: false
 ---
 
-I am a co-founder at [Robust Intelligence](https://www.robustintelligence.com/), an AI security startup.
+I am a co-founder at [Robust Intelligence](https://www.robustintelligence.com/). 
 
 
 ## Previous Experience
