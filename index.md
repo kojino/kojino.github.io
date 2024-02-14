@@ -7,11 +7,6 @@ comments: false
 
 I am a co-founder at [Robust Intelligence](https://www.robustintelligence.com/). 
 
-
-## Previous Experience
-
-I was a machine learning engineer at a **[$11B e-commerce with 500M users](https://www.wish.com/)**, launched a Tokyo branch of a **[Harvard-MIT data consulting firm](http://www.quantco.com/)**, worked for **[the most active seed VC](https://east.vc/)** in south east Asia, and helped build a **[tool every Android developer uses](https://gradle.com/)**.
-
 I graduated from Harvard College with a joint degree in computer science and statistics.
 
 ## Publications
