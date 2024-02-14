@@ -5,7 +5,7 @@ title: About Me
 comments: false
 ---
 
-I am a co-founder at [Robust Intelligence](https://www.robustintelligence.com/). 
+I am a co-founder at [Robust Intelligence](https://www.robustintelligence.com/), an AI Security startup.
 
 I graduated from Harvard College with a joint degree in computer science and statistics.
 
@@ -22,6 +22,8 @@ Oral Presentation
 
 
 ## Awards
+
+Forbes 30 Under 30 in Enterprise Technology, [North America](https://www.forbes.com/profile/kojin-oshiba/?sh=678c3ab72359) / [Japan](https://forbesjapan.com/articles/detail/65443), 2024
 
 Fellowship Recipient, [Masa Son Foundation](https://masason-foundation.org/en/), 2020
 
